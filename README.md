@@ -188,9 +188,7 @@ sla: parseInt(ticketData.sla) || 24, // Change 24 to your default
 4. Test thoroughly
 5. Submit a pull request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
